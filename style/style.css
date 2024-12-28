@@ -1,0 +1,19 @@
+#nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    width: 100%;
+    background-color: blueviolet;
+    gap: 25px;
+}
+
+a{
+    color: wheat;
+    text-decoration: none;
+    
+}
+a:hover{
+    color: blue;
+}
+
